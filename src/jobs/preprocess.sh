@@ -1,2 +1,2 @@
 #!/bin/sh
-python preprocess_data.py
+python ../preprocess_data.py

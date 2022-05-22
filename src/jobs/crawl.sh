@@ -1,2 +1,2 @@
 #!/bin/sh
-python imdb_crawler.py
+python ../imdb_crawler.py
