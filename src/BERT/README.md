@@ -1,6 +1,9 @@
 # BERT
 Using BERT for doing the task of Conditional Natural Langauge Generation by fine-tuning pre-trained BERT on custom dataset. 
 
+## NOTE
+Don't forget to download the generetad models from our google drive mentioned in the report.
+
 ### Running the Server
 ```
 1. Install the necessary requirements
